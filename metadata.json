@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Vocab Master",
+  "description": "An interactive vocabulary learning tool powered by Gemini, featuring mind maps, detailed definitions, and instant text-to-speech for any word.",
+  "requestFramePermissions": []
+}
